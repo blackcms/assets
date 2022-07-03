@@ -1,6 +1,6 @@
 # BlackCMS/Assets
 
-<p align="center">
+<p>
     <a href="https://img.shields.io/github/license/blackcms/assets"><img src="https://img.shields.io/github/license/blackcms/assets"></a>
     <a href="https://img.shields.io/github/forks/blackcms/assets"><img src="https://img.shields.io/github/forks/blackcms/assets"></a>
     <a href="https://img.shields.io/github/issues/blackcms/assets"><img src="https://img.shields.io/github/issues/blackcms/assets"></a>
