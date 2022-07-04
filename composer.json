@@ -1,6 +1,6 @@
 {
     "name": "blackcms/assets",
-    "description": "Package assets management for BlackCMS",
+    "description": "Assets Management Composer Package",
     "keywords": [
         "blackcms",
         "assets"
